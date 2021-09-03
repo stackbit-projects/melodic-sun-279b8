@@ -22,7 +22,8 @@ sections:
     section_id: >-
       best_sellers_section¡Hola! Somos Oportuna, una marca de artículos
       tecnológicos peruana que busca brindar los mejores productos y el mejor
-      servicio.
+      servicio.¡Hola! Somos Oportuna, una marca de artículos tecnológicos
+      peruana que busca brindar los mejores productos y el mejor servicio.
     title: Novedades
     icon: true
     light_title: true
